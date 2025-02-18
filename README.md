@@ -43,7 +43,7 @@
     ![Star 2](Assets/3rd%20Party%20Assets/SpaceAssets/Stars/Star_2.png)
 
 - **Progression:**
-  - As the player accumulates points (thresholds like 1000 or 2000), the scene will flash and transition to the next level with more challenging asteroids.
+  - As the player accumulates points (thresholds like 1000 or 2000), the scene will flash and transition to the next level with more challenging asteroids and more unique space theme.
   - The game loops through levels continuously as the player progresses.
 
 ## Asteroid Spawning
