@@ -1,6 +1,31 @@
+Here’s the corrected version with a proper table of contents that includes clickable links:
+
+---
+
 # Space Explorer 2D
 
 **Space Explorer 2D** is an exciting space adventure game where the player controls a ship, dodges asteroids, collects stars, and shoots enemies for points. The game is designed with progressively difficult waves of asteroids, looping levels, and thrilling particle effects.
+
+## Table of Contents
+1. [Team Members](#team-members)
+2. [Controls](#controls)
+3. [Gameplay](#gameplay)
+4. [Progression](#progression)
+5. [Asteroid Spawning](#asteroid-spawning)
+6. [Game Over](#game-over)
+7. [Audio & Visual Effects](#audio--visual-effects)
+8. [User Interface](#user-interface)
+9. [Assets](#assets)
+10. [Installation](#installation)
+
+---
+
+## Team Members
+- **Lê Quang Khánh - SE182420**
+- **Nguyễn Quang Khánh An - HE180905**
+- **Nguyễn Phạm Đăng Quang - SE173601**
+- **Võ Thị Thanh Tâm - QE180092**
+- **Đào Trọng Đức - SE180110**
 
 ## Controls
 - **Move:** `WASD` or arrow keys
@@ -10,7 +35,7 @@
 - **Player Ship:**
   - Health: 100
   - Projectile Damage: 10
-  - Health decreases on collision with asteroids and score deducted equals to the damage that the asteroid deals.
+  - Health decreases on collision with asteroids, and score deducted equals the asteroid's damage.
 
 ![SpaceShip](Assets/3rd%20Party%20Assets/SpaceAssets/Ships/Spaceship.png)
 
@@ -42,9 +67,9 @@
     
     ![Star 2](Assets/3rd%20Party%20Assets/SpaceAssets/Stars/Star_2.png)
 
-- **Progression:**
-  - As the player accumulates points (thresholds like 1000 or 2000), the scene will flash and transition to the next level with more challenging asteroids and more unique space theme.
-  - The game loops through levels continuously as the player progresses.
+## Progression
+- As the player accumulates points (thresholds like 1000 or 2000), the scene flashes and transitions to the next level with more challenging asteroids and a unique space theme.
+- The game loops through levels continuously as the player progresses.
 
 ## Asteroid Spawning
 - **Trajectory:** Defined by path prefabs.
@@ -89,3 +114,5 @@
 3. Build and run the game!
 
 Enjoy the game! 🚀
+
+---
